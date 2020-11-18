@@ -1,11 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
 # Fortran module files
 *.mod
 
