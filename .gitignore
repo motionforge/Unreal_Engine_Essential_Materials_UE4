@@ -1,10 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Precompiled Headers
-*.gch
-*.pch
-
 # Compiled Dynamic libraries
 *.so
 *.dylib
