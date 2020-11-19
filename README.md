@@ -20,25 +20,25 @@ https://3dtextures.me/
 * Parralax Occulation - A more advanced height map material. Similar to bump, better look, but more demanding of system resources. 
 * Displacement - Displaces the mesh. 
 * Opacity - Parts of the material are transparent or hidden.
-* Cloth.
+* Cloth
 * Emissive
-* Metallic.
+* Metallic
 * Glass
-* Frosted Glass.
-* Distorted Glass.
+* Frosted Glass
+* Distorted Glass
 * Water
-* Slimy Water.
-* Carbon Fibre.
+* Slimy Water
+* Carbon Fibre
 * Clear Coat
-* Clear Coat - No Bottom.
-* Parameter collection example.
+* Clear Coat - No Bottom
+* Parameter collection example
 * Curtain wind animation material - Doesn't just have to be a curtain - but best with cloth and flexible meshes.
-* Ground.
+* Ground
 * Master Material - Most of the materials here can be made from this material if required.
-* Vertex Painted Material.
-* Material Functions Example.
-* Masked and two sided foliage material. 
-* Wheat Field with noise texture to create a wind effect.
+* Vertex Painted Material
+* Material Functions Example
+* Masked and two sided foliage material
+* Wheat Field with noise texture to create a wind effect
 
 Screen Shots:
 
