@@ -22,6 +22,7 @@ https://3dtextures.me/
 * Opacity - Parts of the material are transparent or hidden.
 * Cloth
 * Emissive
+* Pulsing
 * Metallic
 * Glass
 * Frosted Glass
