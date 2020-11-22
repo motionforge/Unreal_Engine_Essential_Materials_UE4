@@ -23,6 +23,7 @@ https://3dtextures.me/
 * Cloth
 * Emissive
 * Pulsing
+* Dissolve
 * Metallic
 * Glass
 * Frosted Glass
