@@ -40,7 +40,7 @@ https://3dtextures.me/
 * Vertex Painted Material
 * Material Functions Example
 * Masked and two sided foliage material
-* Wheat Field with noise texture to create a wind effect (this uses a photo I edited from pixabay - the effect can be improved by using high quality textures from megascans or another library)
+* Wheat Field with noise texture to create a wind effect (this uses a photo I got from pixabay - the effect can be improved by using high quality textures from megascans or another library)
 
 Screen Shots:
 
