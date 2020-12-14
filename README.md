@@ -45,7 +45,7 @@ https://3dtextures.me/
 
 Screen Shots:
 
-![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Materials%201.jpg)
+![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Materials%201.png)
 ![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Materials%203.jpg)
 ![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Materials%204.jpg)
 ![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Materials%205.jpg)
