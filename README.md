@@ -39,9 +39,11 @@ https://3dtextures.me/
 * Ground
 * Master Material - Most of the materials here can be made from this material if required.
 * Vertex Painted Material
+* Vertex Puddle painting Material.
 * Material Functions Example
 * Masked and two sided foliage material
 * Wheat Field with noise texture to create a wind effect (this uses a photo I got from pixabay - the effect can be improved by using high quality textures from megascans or another library)
+* A simple Landscape material with 5 layers for painting. 
 
 Screen Shots:
 
