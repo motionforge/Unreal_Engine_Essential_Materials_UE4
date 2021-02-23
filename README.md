@@ -52,5 +52,5 @@ Screen Shots:
 ![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Materials%204.jpg)
 ![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Materials%205.jpg)
 ![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Materials%206.jpg)
-![].(https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Unreal%20Landscape%20Material.jpg)
+![](https://github.com/motionforge/Unreal_Essential_Materials/blob/main/ScreenShots/Unreal%20Landscape%20Material.jpg)
 
