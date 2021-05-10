@@ -44,6 +44,8 @@ https://3dtextures.me/
 * Masked and two sided foliage material
 * Wheat Field with noise texture to create a wind effect (this uses a photo I got from pixabay - the effect can be improved by using high quality textures from megascans or another library)
 * A simple Landscape material with 5 layers for painting. 
+* Light Function material
+* Sky Material for Sky Box/Sphere
 
 Screen Shots:
 
